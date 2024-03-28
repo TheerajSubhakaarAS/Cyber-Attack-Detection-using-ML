@@ -1,0 +1,2 @@
+﻿sbytes,rate,sttl,sload,dload,tcprtt,smean,ct_state_ttl,ct_dst_src_ltm,ct_srv_dst
+496,90909.0902,254,180363632,0,0,248,2,2,2
